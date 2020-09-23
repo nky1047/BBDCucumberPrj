@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="E:/Softs/Programming/Servers and Others/Selenuim Software/cucumber jars-20200916T082827Z-001/cucumber jars/cobertura-2.1.1.jar"/>
+	<classpathentry kind="lib" path="E:/Softs/Programming/Servers and Others/Selenuim Software/cucumber jars-20200916T082827Z-001/cucumber jars/cucumber-core-1.2.5.jar"/>
+	<classpathentry kind="lib" path="E:/Softs/Programming/Servers and Others/Selenuim Software/cucumber jars-20200916T082827Z-001/cucumber jars/cucumber-java-1.2.5.jar"/>
+	<classpathentry kind="lib" path="E:/Softs/Programming/Servers and Others/Selenuim Software/cucumber jars-20200916T082827Z-001/cucumber jars/cucumber-junit-1.2.5.jar"/>
+	<classpathentry kind="lib" path="E:/Softs/Programming/Servers and Others/Selenuim Software/cucumber jars-20200916T082827Z-001/cucumber jars/cucumber-jvm-deps-1.0.5.jar"/>
+	<classpathentry kind="lib" path="E:/Softs/Programming/Servers and Others/Selenuim Software/cucumber jars-20200916T082827Z-001/cucumber jars/cucumber-reporting-0.1.14.jar"/>
+	<classpathentry kind="lib" path="E:/Softs/Programming/Servers and Others/Selenuim Software/cucumber jars-20200916T082827Z-001/cucumber jars/gherkin-2.12.2.jar"/>
+	<classpathentry kind="lib" path="E:/Softs/Programming/Servers and Others/Selenuim Software/cucumber jars-20200916T082827Z-001/cucumber jars/junit-4.12.jar"/>
+	<classpathentry kind="lib" path="E:/Softs/Programming/Servers and Others/Selenuim Software/cucumber jars-20200916T082827Z-001/cucumber jars/mockito-all-2.0.2-beta.jar"/>
+	<classpathentry kind="lib" path="E:/Softs/Programming/Servers and Others/Selenuim Software/selenium-server-standalone-3.141.59.jar"/>
+	<classpathentry kind="lib" path="E:/Softs/Programming/Servers and Others/Selenuim Software/cucumber_jar_files/animal-sniffer-annotations-1.17.jar"/>
+	<classpathentry kind="lib" path="E:/Softs/Programming/Servers and Others/Selenuim Software/cucumber_jar_files/checker-qual-2.5.2.jar"/>
+	<classpathentry kind="lib" path="E:/Softs/Programming/Servers and Others/Selenuim Software/cucumber_jar_files/commons-collections-3.2.2.jar"/>
+	<classpathentry kind="lib" path="E:/Softs/Programming/Servers and Others/Selenuim Software/cucumber_jar_files/commons-configuration-1.10.jar"/>
+	<classpathentry kind="lib" path="E:/Softs/Programming/Servers and Others/Selenuim Software/cucumber_jar_files/commons-io-2.6.jar"/>
+	<classpathentry kind="lib" path="E:/Softs/Programming/Servers and Others/Selenuim Software/cucumber_jar_files/commons-lang-2.6.jar"/>
+	<classpathentry kind="lib" path="E:/Softs/Programming/Servers and Others/Selenuim Software/cucumber_jar_files/commons-lang3-3.9.jar"/>
+	<classpathentry kind="lib" path="E:/Softs/Programming/Servers and Others/Selenuim Software/cucumber_jar_files/commons-logging-1.1.1.jar"/>
+	<classpathentry kind="lib" path="E:/Softs/Programming/Servers and Others/Selenuim Software/cucumber_jar_files/cucumber-reporting-5.3.1.jar"/>
+	<classpathentry kind="lib" path="E:/Softs/Programming/Servers and Others/Selenuim Software/cucumber_jar_files/error_prone_annotations-2.2.0.jar"/>
+	<classpathentry kind="lib" path="E:/Softs/Programming/Servers and Others/Selenuim Software/cucumber_jar_files/failureaccess-1.0.1.jar"/>
+	<classpathentry kind="lib" path="E:/Softs/Programming/Servers and Others/Selenuim Software/cucumber_jar_files/guava-27.1-jre.jar"/>
+	<classpathentry kind="lib" path="E:/Softs/Programming/Servers and Others/Selenuim Software/cucumber_jar_files/j2objc-annotations-1.1.jar"/>
+	<classpathentry kind="lib" path="E:/Softs/Programming/Servers and Others/Selenuim Software/cucumber_jar_files/jackson-annotations-2.10.1.jar"/>
+	<classpathentry kind="lib" path="E:/Softs/Programming/Servers and Others/Selenuim Software/cucumber_jar_files/jackson-core-2.10.1.jar"/>
+	<classpathentry kind="lib" path="E:/Softs/Programming/Servers and Others/Selenuim Software/cucumber_jar_files/jackson-databind-2.10.1.jar"/>
+	<classpathentry kind="lib" path="E:/Softs/Programming/Servers and Others/Selenuim Software/cucumber_jar_files/jackson-datatype-jsr310-2.10.1.jar"/>
+	<classpathentry kind="lib" path="E:/Softs/Programming/Servers and Others/Selenuim Software/cucumber_jar_files/joda-time-2.10.5.jar"/>
+	<classpathentry kind="lib" path="E:/Softs/Programming/Servers and Others/Selenuim Software/cucumber_jar_files/jsoup-1.12.1.jar"/>
+	<classpathentry kind="lib" path="E:/Softs/Programming/Servers and Others/Selenuim Software/cucumber_jar_files/jsr305-3.0.2.jar"/>
+	<classpathentry kind="lib" path="E:/Softs/Programming/Servers and Others/Selenuim Software/cucumber_jar_files/listenablefuture-9999.0-empty-to-avoid-conflict-with-guava.jar"/>
+	<classpathentry kind="lib" path="E:/Softs/Programming/Servers and Others/Selenuim Software/cucumber_jar_files/owasp-java-html-sanitizer-20191001.1.jar"/>
+	<classpathentry kind="lib" path="E:/Softs/Programming/Servers and Others/Selenuim Software/cucumber_jar_files/plexus-utils-3.3.0.jar"/>
+	<classpathentry kind="lib" path="E:/Softs/Programming/Servers and Others/Selenuim Software/cucumber_jar_files/slf4j-api-1.7.26.jar"/>
+	<classpathentry kind="lib" path="E:/Softs/Programming/Servers and Others/Selenuim Software/cucumber_jar_files/velocity-engine-core-2.1.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
